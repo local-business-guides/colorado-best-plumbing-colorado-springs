@@ -24,6 +24,9 @@
 - [Top Plumber Co in Colorado Springs | Homeowner Guide](https://local-business-guides.github.io/colorado-best-plumbing-colorado-springs/top-plumber-co-in-colorado-springs/): Top Plumber Co Springs: prepare for a plumbing repair with a practical homeowner checklist, then call Colorado Best Plumbing today.
 - [Best Plumber Co Colorado Springs | Homeowner Guide](https://local-business-guides.github.io/colorado-best-plumbing-colorado-springs/best-plumber-co-colorado-springs/): Best Plumber Co Colorado Springs: know what to ask before a repair, use a simple homeowner checklist, and call Colorado Best Plumbing today.
 
+## Newsroom
+- [Colorado Best Plumbing Releases Local Plumbing Guide and Related Media](https://local-business-guides.github.io/colorado-best-plumbing-colorado-springs/news/2026-11-09-colorado-best-plumbing-releases-local-plumbing/): Colorado Best Plumbing published a guide to plumbing Springs, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-09)
+
 ## Pages
 - [Plumber In Springs CO Springs](https://local-business-guides.github.io/colorado-best-plumbing-colorado-springs/): Get help with plumbing needs and repairs from Colorado Best Plumbing Springs. Call +1719-417-8876.
 - [About Colorado Best Plumbing](https://local-business-guides.github.io/colorado-best-plumbing-colorado-springs/about/): About Colorado Best Plumbing Springs.
@@ -31,4 +34,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/colorado-best-plumbing-colorado-springs/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/colorado-best-plumbing-colorado-springs/news/rss.xml)
 - [Main resource site](https://colorado-best-plumbing.localbusinesses1.chatgpt.site)
